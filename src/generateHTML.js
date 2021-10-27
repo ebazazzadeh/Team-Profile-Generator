@@ -102,7 +102,6 @@ generateHTML = (data) => {
     return generateTeam;
 
 }
-{/* <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css"></link> */}
 // generate html page 
 const generateTeamPage = function (employeeCards) {   
   return`
@@ -121,7 +120,7 @@ const generateTeamPage = function (employeeCards) {
   <body>
       <header>
           <nav class="navbar" id="navbar">
-              <span class="navbar-brand mb-0 h1 w-100 text-center" id="navbar-text background-color=golden">Team Profile</span>
+              <span class="navbar-brand mb-0 h1 w-100 text-center" id="navbar-text background-color=golden">My Team Profile</span>
           </nav>
       </header>
       <main>
