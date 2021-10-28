@@ -5,6 +5,7 @@
 :root {
   --primary: lightslategray;
   --secondary: white;
+  --navbar: brown;
 }
 
 body {
@@ -13,7 +14,7 @@ body {
 }
 
 #navbar {
-  background-color: var(--primary);
+  background-color: var(--navbar);
   color: var(--secondary);
   /* font-size: 30px; */
   font-size: 3rem;
