@@ -47,6 +47,9 @@ View walk through video here
 
 ![Team Profile Generator](./assets/demo/Team-Profile-Generator.gif 'Team-Profile-Generator')
 
+<br>
+View walk through video here in google drive - [Screencastify](https://drive.google.com/file/d/14v9yIKAwgBavxCRG0UCHrWRL11IQgb-9/view?usp=sharing)
+
 ## License
 
 This project is license under MIT
